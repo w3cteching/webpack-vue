@@ -1,3 +1,4 @@
+# webpack和vue环境搭建--作者：郝金利
 ## 1. webpack是什么鬼
 
 >  webpack是一款模块化及打包构建工具（支持ES6 modules,AMD,CommonJS等规范）
