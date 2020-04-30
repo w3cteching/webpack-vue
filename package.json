@@ -31,7 +31,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.2",
     "vuex": "^3.1.1"
